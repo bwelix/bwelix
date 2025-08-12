@@ -11,5 +11,5 @@ Apaixonado por criar experiências interativas que unem criatividade, narrativa 
 
 ## 📫 Onde me encontrar
 - LinkedIn: [https://www.linkedin.com/in/esther-cristina-6a8684252)
-- GitHub: [https://github.com/bwelix/bwelix/edit/main/README.md)
+- GitHub: [https://github.com/bwelix)
   
