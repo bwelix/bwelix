@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou [Esther Cristina] 👋
 
-<!--
-**bwelix/bwelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Desenvolvedor de Jogos em Formação**  
+Apaixonado por criar experiências interativas que unem criatividade, narrativa e tecnologia.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas
+- **Game Engines**: Unity, Godot
+- **Linguagens**: C#, Python, GDScript
+- **Ferramentas**: Git, Blender, Photoshop
+- **Áreas de Interesse**: Game Design, Level Design, Programação de Gameplay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Onde me encontrar
+- LinkedIn: [https://www.linkedin.com/in/esther-cristina-6a8684252)
+- GitHub: [https://github.com/bwelix/bwelix/edit/main/README.md)
+  
