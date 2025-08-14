@@ -1,4 +1,4 @@
-# Olá, eu sou [Esther Cristina] 👋
+# Olá, eu sou Esther Cristina
 
 🎮 **Desenvolvedor de Jogos em Formação**  
 Apaixonado por criar experiências interativas que unem criatividade, narrativa e tecnologia.
